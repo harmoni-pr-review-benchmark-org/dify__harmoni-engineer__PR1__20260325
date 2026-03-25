@@ -4949,7 +4949,7 @@ wheels = [
 
 [[package]]
 name = "pyobvector"
-version = "0.2.20"
+version = "0.2.25"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "aiomysql" },
@@ -4959,9 +4959,9 @@ dependencies = [
     { name = "sqlalchemy" },
     { name = "sqlglot" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ca/6f/24ae2d4ba811e5e112c89bb91ba7c50eb79658563650c8fc65caa80655f8/pyobvector-0.2.20.tar.gz", hash = "sha256:72a54044632ba3bb27d340fb660c50b22548d34c6a9214b6653bc18eee4287c4", size = 46648, upload-time = "2025-11-20T09:30:16.354Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/38/8a/c459f45844f1f90e9edf80c0f434ec3b1a65132efb240cfab8f26b1836c3/pyobvector-0.2.25.tar.gz", hash = "sha256:94d987583255ed8aba701d37a5d7c2727ec5fd7e0288cd9dd87a1f5ee36dd923", size = 78511, upload-time = "2026-03-10T07:18:32.283Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/ae/21/630c4e9f0d30b7a6eebe0590cd97162e82a2d3ac4ed3a33259d0a67e0861/pyobvector-0.2.20-py3-none-any.whl", hash = "sha256:9a3c1d3eb5268eae64185f8807b10fd182f271acf33323ee731c2ad554d1c076", size = 60131, upload-time = "2025-11-20T09:30:14.88Z" },
+    { url = "https://files.pythonhosted.org/packages/d1/7d/037401cecb34728d1c28ea05e196ea3c9d50a1ce0f2172e586e075ff55d8/pyobvector-0.2.25-py3-none-any.whl", hash = "sha256:ae0153f99bd0222783ed7e3951efc31a0d2b462d926b6f86ebd2033409aede8f", size = 64663, upload-time = "2026-03-10T07:18:29.789Z" },
 ]
 
 [[package]]
